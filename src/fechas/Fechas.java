@@ -9,11 +9,18 @@ package fechas;
  *
  * @author 203p21
  */
-public class Fechas {
+public class Fechas { 
         int dia;
         int mes;
-        int ano;
-            
-    
+        int ano; 
+
+    public Fechas(int dia, int mes, int ano) {
+        this.dia = dia;
+        this.mes = mes;
+        this.ano = ano;
+    }
+        
+        
+        
     
 }
