@@ -23,12 +23,12 @@ public class Fechas {
         this.ano = ano;
     }
         
-    public Fechas(){
+    /*public Fechas(){
         Calendar c=new GregorianCalendar();
         dia=c.get(Calendar.DAY_OF_MONTH);
         mes=c.get(Calendar.MONTH);
         ano=c.get(Calendar.YEAR);
-    }    
+    } */   
         
     
 }
